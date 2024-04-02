@@ -17,3 +17,6 @@ Escucho música todo el tiempo, en mi casa siempre esta sonando algo, tengo gust
 
 -------------------------------------------
 Como para agregar una foto, tengo una de mis gatos cuando recien llegaban a casa...
+![image](https://github.com/pdep-utn-frd/2024-presentacion-SebassAre/assets/165820017/e60365fe-94c0-4d18-8bdc-1f642244f7a8)
+
+Son Tinto y Linda.
